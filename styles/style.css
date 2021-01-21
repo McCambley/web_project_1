@@ -14,12 +14,64 @@
   min-height: 600px;
   max-height: 756px;
   /* parameters for the header section */
+  background: #f2f2f2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
 }
 
+.logo_place_header {
+  height: 31px;
+  width: 154px;
+  position: relative;
+  top: 30px;
+  left: 64px;
+}
+
+.header__title {
+  width: 730px;
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: bold;
+  position: absolute;
+  left: 64px;
+  align-self: center;
+  z-index: 1;
+}
+
+.header__subtitle {
+  width: 388px;
+  position: absolute;
+  left: 64px;
+  bottom: 30px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  z-index: 2;
+}
+
+.header__link {
+  text-decoration: none;
+}
+
+
+.header__main-illustration {
+  height: 608px;
+  width: 765px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
 /* here we have two examples of selectors in order to remind you how to set styles for elements */
 .header__square-pic {
   height: 568px;
   width: 568px;
+  position: absolute;
+  top: 64px;
+  right: 0;
+  z-index: 0;
+  background: #2f80ed;
 }
 
 /* including elements with key-value modifiers */
