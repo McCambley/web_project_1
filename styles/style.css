@@ -238,7 +238,6 @@ body, header, section, footer, div, a, h1, h2, h3, h4, p {
   position: relative;
   z-index: -2;
   overflow: hidden;
-  display: flex;
   align-items: center;
   flex-direction: column;
 }
@@ -359,7 +358,7 @@ body, header, section, footer, div, a, h1, h2, h3, h4, p {
 .footer__social-icon {
   height: 16px;
   width: 16px;
-  margin-right: 10px;;
+  margin-right: 10px;
 }
 
 
