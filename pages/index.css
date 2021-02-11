@@ -1,3 +1,6 @@
+@import url(../vendor/normalize.css);
+@import url(../fonts/fonts.css);
+
 .page {
   min-width: 1100px;
   /* we don't know how to make mobile versions of websites yet, */
