@@ -1,0 +1,6 @@
+.video__container {
+  display: flex;
+  justify-content: center;
+  margin: 50px auto -60px;
+  z-index: 1;
+}

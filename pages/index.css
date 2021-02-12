@@ -15,11 +15,12 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/video/video.css);
+@import url(../blocks/cards/cards.css);
 @import url(../blocks/rotation/rotation.css);
 @import url(../vendor/normalize.css);
 @import url(../fonts/fonts.css);
 
-/* modifiers */
+/* modifiers by block */
 @import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
 
