@@ -11,8 +11,11 @@ The first sprint involved the following skills in order to create the webpage an
 
 In the second sprint I will take the following actions:
 1. Reorganize stylesheets according to BEM Methodology
+- Complete
 2. Add a greater variety of media using iFrames to create a more immersive page
+-
 3. Add element animations to create a page that feels more alive
+-
 
 If there is time at the end of the second sprint, I would like to achieve the following:
 1. Create a form that would allow users to submit a comment below the document
