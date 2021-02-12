@@ -15,6 +15,7 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/video/video.css);
+@import url(../blocks/rotation/rotation.css);
 @import url(../vendor/normalize.css);
 @import url(../fonts/fonts.css);
 
