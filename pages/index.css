@@ -1,3 +1,4 @@
+/* primary stylesheets */
 @import url(../blocks/page/page.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/description/description.css);
@@ -16,17 +17,28 @@
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/video/video.css);
 @import url(../blocks/cards/cards.css);
+
+/* animation stylesheets */
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/transparency/transparency.css);
 @import url(../blocks/pop/pop.css);
+
+/* vendor stylesheets */
 @import url(../vendor/normalize.css);
+
+/* font stylesheets */
 @import url(../fonts/fonts.css);
 
 /* modifiers by block */
+/* logo */
 @import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
 
+/* section subtitle */
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
+
+/* section title */
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 
+/* table */
 @import url(../blocks/table/_theme/table_theme_dark.css);

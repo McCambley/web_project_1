@@ -17,7 +17,7 @@ In the second sprint I will take the following actions:
 3. Add element animations to create a page that feels more alive
 - Complete
 4. Add additional sections
-- Working
+- Complete
 
 If there is time at the end of the second sprint, I would like to achieve the following:
 1. Create a form that would allow users to submit a comment below the document
