@@ -4,3 +4,27 @@
   margin: 50px auto -60px;
   z-index: 1;
 }
+
+/* Hi Marina! I'm not sure that you'll see this, and I
+apologize if it's poor form to write messages to you, but I
+did want to clarify something. In the previous code review,
+you mention that it's not best practice to use negative
+margins for elements, and that makes sense, as it could
+affect items around it in ways we may not want them to.
+I adjusted the margins for the Khan block, using object-
+fit and object-position and that worked well. I tried to do
+the same here, removing the negative margin and instead
+implementing the same properties mentioned above, but I
+couldn't manage to un-hide the overflow, meaning that the
+iframes would be cropped to the size of the container, and
+the video would be unwatchable. I think that my next step would
+be to try removing the top margin here, and utilizing
+absolute positioning to shift the iframe down 50px, but I
+didn't want to try that before my next submission as 1) nothing
+was mentioned here that needed fixing 2) using absolute
+positioning seems similarly hacky and I didn't want to replace
+one messy hack for another. If you have any input here I'd
+love to hear it. In any case, thank you thank you for taking
+a look through this code, this feedback process is
+immensely helpful and I really appreciate your time and
+input! */

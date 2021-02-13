@@ -6,7 +6,7 @@
   padding: 60px 0;
 }
 
-.cards__item:nth-child(3) {
+.cards__item:nth-child(3n) {
   margin: 0;
 }
 

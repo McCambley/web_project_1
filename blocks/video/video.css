@@ -1,6 +1,6 @@
 @import url(./__iframe/video__iframe.css);
 @import url(./__container/video__container.css);
 
-.video * {
+.video {
   position: relative;
 }
