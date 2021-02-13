@@ -1,7 +1,7 @@
 .video__container {
   display: flex;
   justify-content: center;
-  margin: 50px auto -60px;
+  margin: 50px auto 0;
   z-index: 1;
 }
 
@@ -28,3 +28,8 @@ love to hear it. In any case, thank you thank you for taking
 a look through this code, this feedback process is
 immensely helpful and I really appreciate your time and
 input! */
+
+/* update: I adjusted the background color of the block
+to display as a gradient, then I removed the negative margin.
+This achieved the desired design and prevented the use of hacky
+fixes 8/

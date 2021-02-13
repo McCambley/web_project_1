@@ -3,4 +3,7 @@
 
 .video {
   position: relative;
+  margin-bottom: 0;
+  padding: 0;
+  background-image: linear-gradient(white 87%, #f2f2f2 87%);
 }
