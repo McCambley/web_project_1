@@ -23,6 +23,7 @@
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/video/video.css);
 @import url(../blocks/cards/cards.css);
+@import url(../blocks/form/form.css);
 
 /* animation stylesheets */
 @import url(../blocks/rotation/rotation.css);

@@ -1,0 +1,44 @@
+
+.form {
+  padding-top: 50px ;
+  padding-bottom: 50px;
+  background-color: #f2f2f2;
+}
+
+.form__body {
+  display: flex;
+  flex-direction: column;
+}
+
+.form__content {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 40%;
+}
+
+.form__contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: none;
+}
+
+.form__comment {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: none;
+}
+
+.section-title_theme_gray {
+  color: #a3a3a3;
+  margin-bottom: 0;
+}
+
+.section-subtitle_theme_gray {
+  color: #a3a3a3;
+  margin-bottom: 10px;
+}
+
+
