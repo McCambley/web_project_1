@@ -1,1 +1,12 @@
 /* No additional fonts needed at this point. Leaving this file linked for later use */
+@font-face {
+  src: url(../../Fonts/Open_Sans_Condensed/OpenSansCondensed-Light.ttf) format('truetype');
+  font-family: 'Open_Sans_Condensed';
+  font-weight: normal;
+}
+
+@font-face {
+  src: url(../../Fonts/Open_Sans_Condensed/OpenSansCondensed-Bold.ttf) format('truetype');
+  font-family: 'Open_Sans_Condensed';
+  font-weight: bold;
+}
