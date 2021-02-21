@@ -7,5 +7,6 @@
   margin: 0;
   padding: 0;
   min-width: 200px;
-  align-self: flex-start;
+  -ms-flex-item-align: start;
+      align-self: flex-start;
 }

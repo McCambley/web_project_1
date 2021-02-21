@@ -4,9 +4,14 @@
 @import url(./__title/cards__title.css);
 
 .cards {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content:left;
-  flex-wrap: wrap;
+  -webkit-box-pack:left;
+      -ms-flex-pack:left;
+          justify-content:left;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   list-style: none;
   padding: 0;
   width: 920px;
